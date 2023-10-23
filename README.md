@@ -38,3 +38,6 @@ Le jeu va être divisé en plusieurs niveaux et à chaque niveau que le joueur c
 # Carte
 Le grand studio mais avec des portes de plus. (et après un tournage)
 ![studio](media/studiomap.PNG)
+
+# Schéma de programmation
+![prog](media/schemaprog.png)
