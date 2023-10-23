@@ -19,8 +19,22 @@ Si le joueur illumine la porte et le monstre est là, c'est game over.
 ### Les niveaux
 Le jeu va être divisé en plusieurs niveaux et à chaque niveau que le joueur complète, le IA du monstre deviens de plus en plus agréssive et les tâches deviennent plus nombreuses et complexes.
 
-## Moodboards
+# Moodboards
 
-### Moodboards visuels
+## Moodboards visuels
+### Environement
+![studio](media/studio_mb.PNG)
+### Équipement
+![stuff](media/equipment_mb.PNG)
 
-### Moodboards sonore
+## Moodboards sonore
+### Room tone
+[room tone](https://www.youtube.com/watch?v=z6JCd7gv9h4)
+### Porte en métal
+[DOORDOORDOOR](https://www.youtube.com/watch?v=Y9sO-aDjeUw)
+### Manipulation de l'équipement
+[STUFF](https://www.youtube.com/watch?v=o1yg7YsJ4rk)
+
+# Carte
+Le grand studio mais avec des portes de plus. (et après un tournage)
+![studio](media/studiomap.PNG)
